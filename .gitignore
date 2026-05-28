@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Atomic-write temp file
+ai-blocklist.txt.tmp
+
+# macOS
+.DS_Store

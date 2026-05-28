@@ -1,0 +1,15 @@
+# custom-entries.txt
+#
+# Your own additive entries, merged on top of the remote HPT baseline and
+# published in ai-blocklist.txt. This file is git-versioned: edit it, commit,
+# and the next run (local or CI) folds your domains into the output.
+#
+# One domain per line. Either form works; blank lines and lines starting
+# with "#" are ignored:
+#
+#   example.com
+#   0.0.0.0 example.com
+#
+# Add your custom domains below (remove the leading "#" to activate):
+# some-ai-tool.com
+# another-chatbot.example
