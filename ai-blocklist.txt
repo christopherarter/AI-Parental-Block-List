@@ -86,6 +86,7 @@
 0.0.0.0 animeai.app
 0.0.0.0 animegenius.ai
 0.0.0.0 animemaker.ai
+0.0.0.0 api.retool.com
 0.0.0.0 aplicaciones.ai
 0.0.0.0 appintro.ai
 0.0.0.0 apple.com/us/app/ai-art-generator-hitpaw/id6444304300
@@ -810,6 +811,7 @@
 0.0.0.0 replicable.art
 0.0.0.0 replicate.ai
 0.0.0.0 replicate.com
+0.0.0.0 retool.com
 0.0.0.0 romankos.art
 0.0.0.0 roughly.app
 0.0.0.0 s.id/aiartgaia
